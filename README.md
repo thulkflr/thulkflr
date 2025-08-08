@@ -1,14 +1,18 @@
 ## 💫 About Me:
 ### Hello!👋 I'm Thu Al-kfl,
-A Computer Engineer, enthusiastic and passionate student of learning, I master everything I learn, Practiced with different Programming Languages, different Software and IDEs, and I have a good academic and career path during my university studies Additionally, I am a Junior QA Manual and Automation Tester, and I adopt Agile Mindset principles to foster collaboration and adaptability.
+A Computer Engineer, enthusiastic and passionate student of learning, I master everything I learn, Practiced with different Programming Languages, different Software and IDEs, and I have a good academic and career path during my university studies Additionally.
 
 ## 🔧 Technologies & Tools I Use
 
 - *Programming Languages*: C, C++, C#, Dart, Java.
+- *Screipting Languages*: JS, PHP.
+- *ML's*: HTML.
+- *Backend Frameworks*: Yii2.
 - *Hardware Description Languages (HDL)*: Verilog, VHDL.
 - *Manual Testing*: Jira, Test Case Development, Test Case Execution, Bug Tracking, Bug Report, API Testing.
 - *Automation Testing*: Selenium Webdriver, TestNG, Jmeter, API Testing, Database Testing, Mobile Application Testing.
-- *Tools & Frameworks*: Eclipse, Git, GitHub, Android Studio, VS Code, Visual Studio, Cisco Packet Tracer, Wireshark, Postman, SSMS, Firebase.
+- *Tools & Frameworks*: Eclipse, Android Studio, VS Code, Visual Studio, Cisco Packet Tracer, Wireshark, Postman, SSMS, Firebase.
+- *Version Controls*: git, Github, Bitbuckit.
 - *Networking*: CCNA, TCP/IP, Routing & Switching.
 - *Operating Systems*: Linux, Windows.
 

@@ -5,7 +5,7 @@ A Computer Engineer, enthusiastic and passionate student of learning, I master e
 ## 🔧 Technologies & Tools I Use
 
 - *Programming Languages*: C, C++, C#, Dart, Java.
-- *Screipting Languages*: JS, PHP.
+- *Scripting Languages*: JS, PHP.
 - *ML's*: HTML.
 - *Backend Frameworks*: Yii2.
 - *Hardware Description Languages (HDL)*: Verilog, VHDL.

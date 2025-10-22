@@ -8,6 +8,7 @@ A Computer Engineer, enthusiastic and passionate student of learning, I master e
 - *Scripting Languages*: JS, PHP.
 - *ML's*: HTML, XML.
 - *Backend Frameworks*: Yii2, Laravel.
+- *Frontend Frameworks & Libraries*: React.Js, Jquery, AJAX.
 - *Hardware Description Languages (HDL)*: Verilog, VHDL.
 - *Manual Testing*: Jira, Test Case Development, Test Case Execution, Bug Tracking, Bug Report, API Testing.
 - *Automation Testing*: Selenium Webdriver, TestNG, Jmeter, API Testing, Database Testing, Mobile Application Testing.
